@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unfor9otten blog</title><link>https://unfor9otten.github.io/</link><description>unfor9otten blog</description><atom:link href="https://unfor9otten.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>ko</language><copyright>Contents © 2018 &lt;a href="mailto:unfor9otten@gmail.com"&gt;unfor9otten&lt;/a&gt; </copyright><lastBuildDate>Sun, 09 Dec 2018 13:10:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>test</title><link>https://unfor9otten.github.io/posts/test/</link><dc:creator>unfor9otten</dc:creator><description>&lt;div id="outline-container-orgf6873c7" class="outline-2"&gt;
+&lt;h2 id="orgf6873c7"&gt;first blog post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgf6873c7"&gt;
+&lt;ul class="org-ul"&gt;
+&lt;li&gt;nikola&lt;/li&gt;
+&lt;li&gt;nikola plugin orgmode&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;
+source code example
+&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;  &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Test&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+      &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;static&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;String&lt;/span&gt;&lt;span class="o"&gt;[]&lt;/span&gt; &lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+	  &lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;out&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;println&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s"&gt;"Hello, blog"&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
+      &lt;span class="o"&gt;}&lt;/span&gt;
+  &lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><guid>https://unfor9otten.github.io/posts/test/</guid><pubDate>Sun, 09 Dec 2018 12:01:01 GMT</pubDate></item></channel></rss>
