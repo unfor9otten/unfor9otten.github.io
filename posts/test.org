@@ -1,0 +1,24 @@
+#+BEGIN_COMMENT
+.. title: test
+.. slug: test
+.. date: 2018-12-09 21:01:01 UTC+09:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+
+#+END_COMMENT
+
+
+* first blog post
+- nikola
+- nikola plugin orgmode
+- source code example
+  #+BEGIN_SRC java
+  public class Test {
+      public static void main(String[] args) {
+          System.out.println("Hello, blog");
+      }
+  }
+  #+END_SRC
