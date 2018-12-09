@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unfor9otten (test에 대한 포스트)</title><link>https://unfor9otten.github.io/</link><description></description><atom:link href="https://unfor9otten.github.io/categories/test.xml" rel="self" type="application/rss+xml"></atom:link><language>ko</language><copyright>Contents © 2018 &lt;a href="mailto:unfor9otten@gmail.com"&gt;unfor9otten&lt;/a&gt; </copyright><lastBuildDate>Sun, 09 Dec 2018 14:10:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>test2</title><link>https://unfor9otten.github.io/posts/test2/</link><dc:creator>unfor9otten</dc:creator><description>&lt;div id="outline-container-org9fa59e1" class="outline-2"&gt;
-&lt;h2 id="org9fa59e1"&gt;카테고리 분류&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org9fa59e1"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>unfor9otten (Posts about test)</title><link>https://unfor9otten.github.io/</link><description></description><atom:link href="https://unfor9otten.github.io/categories/test.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:unfor9otten@gmail.com"&gt;unfor9otten&lt;/a&gt; </copyright><lastBuildDate>Sun, 09 Dec 2018 14:49:34 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>test2</title><link>https://unfor9otten.github.io/posts/test2/</link><dc:creator>unfor9otten</dc:creator><description>&lt;div id="outline-container-orgbafb918" class="outline-2"&gt;
+&lt;h2 id="orgbafb918"&gt;카테고리 분류&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgbafb918"&gt;
 &lt;ul class="org-ul"&gt;
 &lt;li&gt;nikola posts에서의 폴더 분류&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description><category>test</category><guid>https://unfor9otten.github.io/posts/test2/</guid><pubDate>Sun, 09 Dec 2018 14:03:41 GMT</pubDate></item><item><title>test</title><link>https://unfor9otten.github.io/posts/newfolder/test/</link><dc:creator>unfor9otten</dc:creator><description>&lt;div id="outline-container-org44a888e" class="outline-2"&gt;
-&lt;h2 id="org44a888e"&gt;first blog post&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org44a888e"&gt;
+&lt;/div&gt;</description><category>test</category><guid>https://unfor9otten.github.io/posts/test2/</guid><pubDate>Sun, 09 Dec 2018 14:03:41 GMT</pubDate></item><item><title>test</title><link>https://unfor9otten.github.io/posts/newfolder/test/</link><dc:creator>unfor9otten</dc:creator><description>&lt;div id="outline-container-org4e4a2be" class="outline-2"&gt;
+&lt;h2 id="org4e4a2be"&gt;first blog post&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org4e4a2be"&gt;
 &lt;ul class="org-ul"&gt;
 &lt;li&gt;nikola&lt;/li&gt;
 &lt;li&gt;nikola plugin orgmode&lt;/li&gt;
