@@ -136,9 +136,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "저장소"),
-        ("/categories/", "태그"),
-        ("/rss.xml", "RSS 목록"),
+        ("/archive.html", "archive"),
+        ("/categories/", "categories"),
+        ("/rss.xml", "RSS"),
     ),
 }
 
