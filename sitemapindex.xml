@@ -6,15 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://unfor9otten.github.io/categories/emacs.xml</loc>
+  <lastmod>2018-12-09T13:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://unfor9otten.github.io/categories/org.xml</loc>
+  <lastmod>2018-12-09T13:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://unfor9otten.github.io/categories/test.xml</loc>
+  <lastmod>2018-12-09T13:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://unfor9otten.github.io/galleries/rss.xml</loc>
   <lastmod>2018-12-09T13:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://unfor9otten.github.io/rss.xml</loc>
-  <lastmod>2018-12-09T13:10:00Z</lastmod>
+  <lastmod>2018-12-09T13:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://unfor9otten.github.io/sitemap.xml</loc>
-  <lastmod>2018-12-09T13:21:00Z</lastmod>
+  <lastmod>2018-12-09T13:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>

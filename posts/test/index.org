@@ -2,7 +2,7 @@
 .. title: test
 .. slug: test
 .. date: 2018-12-09 21:01:01 UTC+09:00
-.. tags:
+.. tags: test, emacs, org
 .. category:
 .. link:
 .. description:
